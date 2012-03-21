@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RowCount</string>
+    <string name="app_name">TallyBee</string>
+<string name="menu_reset">Reset</string>
+<string name="menu_dec">Decrement</string>
+<string name="menu_inc">Increment</string>
+</resources>
